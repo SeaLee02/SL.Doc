@@ -1,0 +1,3 @@
+<template><h1 id="中介者-10-mediatr" tabindex="-1"><a class="header-anchor" href="#中介者-10-mediatr" aria-hidden="true">#</a> 中介者(10_MediatR)</h1>
+<p>中介者模式，可以帮助业务分离。可以看作简单的事件吧，不需要同步的事件。不能实现事务，对于没有事务概念的时候可以使用。田宇 引进。</p>
+</template>
